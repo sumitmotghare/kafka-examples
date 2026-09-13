@@ -1,0 +1,3 @@
+com/example/kafkaexample/producer/MessageProducerTest.class
+com/example/kafkaexample/consumer/MessageConsumerTest.class
+com/example/kafkaexample/service/KafkaServiceTest.class
